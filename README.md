@@ -28,8 +28,6 @@
 
 > This solution skeleton is created from https://github.com/GoogleCloudPlatform/solutions-template
 
-Please contact jonchen@google.com for any questions.
-
 ##  1. <a name='Overview'></a>Overview
 
 ###  1.1. <a name='WhatisCloudLearningPlatformCLP'></a>What is Cloud Learning Platform (“CLP”)
